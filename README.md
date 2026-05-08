@@ -25,6 +25,10 @@ spritesheet.webp
 
 ## 安装方法
 
+1. 在 PetDex 平台下载安装：[点击打开](https://petdex.crafter.run/zh/pets/wisemindai)
+
+2. 下载本项目安装
+
 把整个 `wisemindai` 文件夹复制到 Codex 的宠物目录：
 
 ```text
