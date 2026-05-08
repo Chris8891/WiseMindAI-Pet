@@ -28,7 +28,7 @@ spritesheet.webp
 把整个 `wisemindai` 文件夹复制到 Codex 的宠物目录：
 
 ```text
-~/.codex/pets/wisemindai/
+~/.codex/pets/
 ```
 
 复制后目录结构应该类似这样：
@@ -37,6 +37,7 @@ spritesheet.webp
 ~/.codex/pets/wisemindai/
 ├── pet.json
 ├── spritesheet.webp
+├── demo.gif
 └── README.md
 ```
 
